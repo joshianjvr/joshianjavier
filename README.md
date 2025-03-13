@@ -1,6 +1,6 @@
 <h2>Hi!👋, I'm josh</h2>
 <p>A passionate frontend developer</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>🚀 Tech Stack:</h2>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
