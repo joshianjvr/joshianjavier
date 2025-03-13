@@ -1,4 +1,4 @@
-<h1>Hi👋, I'm josh</h1>
+<h2>Hi👋, I'm josh</h2>
 <p>A passionate frontend developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
 
@@ -54,6 +54,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a></p>
 </div>
 
-<h2>⚡️ Where to find me</h2>
+<h3>⚡️Where to find me</h3>
 <p><a target="_blank" href="https://www.instagram.com/https://www.instagram.com/joshian.jvr/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
